@@ -1,0 +1,9 @@
+# Ignorar diretório dist
+dist/
+
+# Ignorar arquivos da IDE PyCharm
+.idea/
+
+# Ignorar arquivos do PyInstaller
+*.spec
+build/
